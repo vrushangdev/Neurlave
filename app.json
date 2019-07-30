@@ -1,4 +1,9 @@
 {
-  "name": "RNDiagflowChatbot",
-  "displayName": "RNDiagflowChatbot"
+  "expo": {
+    "name": "RNDiagflowChatbot",
+    "slug": "Neuralve",
+    "privacy": "public",
+    "sdkVersion": "30.0.0"
+   
+  }
 }
